@@ -17,7 +17,7 @@ closes.forEach(function(close){
         content.classList.add("animated");
         content.classList.add("fadeOutRight");
         setTimeout(() => {
-            location.href="https://ibarranunezleandroantonio.github.io/ranking/";
+            location.href="../";
         }, 500);
      });
 })
